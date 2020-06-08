@@ -10,7 +10,7 @@
 
 ## Notes
 
-**Example for the pyramids:**
+**Example for the pyramid:**
 
 The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.
 
