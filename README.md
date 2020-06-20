@@ -1,5 +1,7 @@
-# English with wonder infos
+# English (language) with wonder infos
  Default english language with added wonder infos on completion (so you might learn something :P)
+ 
+ (In my german translation patch these infos are already included and translated)
 
 ## Installation and use
 
