@@ -1,5 +1,5 @@
 # English with wonder infos
- Default english language with added wonder infos on completion
+ Default english language with added wonder infos on completion (so you might learn something :P)
 
 ## Installation and use
 
