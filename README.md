@@ -5,7 +5,7 @@
 
 ## Installation and use
 
-**Delete any previous files/directories from earlier versions of this patch**
+**Delete any previous files/directories from earlier versions of this mod**
 1. [Download](https://github.com/ShadowDuke/OW_WonderInfos/archive/master.zip) the files and put the **"Mods"** directory in \Users\\###\Documents\My Games\OldWorld\ or \Users\\###\Documents\My Games\OldWorld\Test\ (if you use the test branch).
 - Help: Windows Explorer; click on Documents; navigate to \My Games\Old World\
 2. Set up a new game and go to Advanced Setup to find the mod at the bottom and enable it.
