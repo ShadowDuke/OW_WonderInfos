@@ -1,5 +1,5 @@
 # Wonder infos
- Adds wonder infos on completion
+ Adds wonder info on completion
 
 
 
