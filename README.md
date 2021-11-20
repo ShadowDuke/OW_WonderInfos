@@ -5,7 +5,7 @@ You can still add them manually like before (github) but it would be certainly e
 # Wonder info
  Adds wonder info on completion
 
-
+(a german version of this mod is already included in the german translation mod)
 
 ## Installation and use
 
